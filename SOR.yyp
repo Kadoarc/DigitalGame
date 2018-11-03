@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "c14f365d-08eb-43fb-9eb3-45b76d560b3c",
+            "Value": {
+                "id": "488499e7-2c8f-48e6-9303-310033e999c8",
+                "resourcePath": "scripts\\set_state_sprite1\\set_state_sprite1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c255aee6-c408-4659-982b-a505938b189f",
             "Value": {
                 "id": "6ad877af-40d5-4284-88a8-c3da395b37c3",
@@ -452,7 +460,8 @@
         "52ea4be6-63c0-42d2-b129-224a48606423",
         "1b262e22-eb8f-47ac-8fa2-c7f407ff6b7b",
         "b3b83cd0-b062-4565-9632-af62d092416f",
-        "4dda9b8d-7035-4361-bf24-45eb924b627c"
+        "4dda9b8d-7035-4361-bf24-45eb924b627c",
+        "c14f365d-08eb-43fb-9eb3-45b76d560b3c"
     ],
     "tutorial": ""
 }
